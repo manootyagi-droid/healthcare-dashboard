@@ -21,7 +21,7 @@ This Power BI project focuses on analyzing inpatient and outpatient healthcare d
 
 ---## 📸 Dashboard Screenshot
 
-![Dashboard](healthcare-dashboard.png)
+![Dashboard](healthcare-dashboard.png.png)
 
 ### 📌 How to View:
 1. Download the .pbix file
